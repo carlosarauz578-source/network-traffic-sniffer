@@ -1,1 +1,1 @@
-Network Traffic Sniffer and Analyzer developed in Python using Scapy. Supports TCP, UDP and ICMP analysis, traffic statistics, top hosts, top ports and CSV export.
+Python-based network traffic sniffer using Scapy. Identifies common TCP/UDP services, including DNS, HTTP, HTTPS, SSH, and FTP. Provides packet filtering, traffic statistics, top hosts, port analysis, and CSV export.
